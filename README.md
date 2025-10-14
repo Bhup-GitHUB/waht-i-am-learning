@@ -19,6 +19,8 @@ how jane street using ai
 
 how bun is faster than npm
 https://bun.com/blog/behind-the-scenes-of-bun-install
-
+https://www.youtube.com/playlist?list=PLPyaR5G9aNDvs6TtdpLcVO43_jvxp4emI
+https://www.youtube.com/watch?v=3qGxVYJF3IU
+https://www.youtube.com/watch?v=6olGeRSBDL0&pp=0gcJCfwJAYcqIYzv
  
 
