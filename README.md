@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=QjvyiyH4rr0
+
 ik is what not waht 
 
 ## Scalable low latency backend for upi payments like phonepe/fampay using golang backend and aerospike database  -Projects(on serious note )
