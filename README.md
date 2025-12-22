@@ -30,6 +30,8 @@ https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimizat
 https://github.com/Glimesh/broadcast-box/blob/main/internal/webrtc/webrtc.go
 https://www.youtube.com/watch?v=7xTGNNLPyMI
 https://www.youtube.com/watch?v=KJtZARuO3JY  -> transformers 
+
+https://medium.com/groupon-eng/scaling-millions-of-geospatial-queries-per-minute-using-redis-7c05bcf6b4db
 https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 
