@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=KJtZARuO3JY  -> transformers
 
 https://medium.com/groupon-eng/scaling-millions-of-geospatial-queries-per-minute-using-redis-7c05bcf6b4db
 https://www.youtube.com/watch?v=kCc8FmEb1nY
+https://www.uber.com/en-IN/blog/h3/
 
 
  
