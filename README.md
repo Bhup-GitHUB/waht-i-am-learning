@@ -44,3 +44,4 @@ https://www.youtube.com/@UberEngineering/videos
 
 https://www.youtube.com/watch?v=ay2uwtRO3QE
 https://grafana.com/docs/grafana-cloud/knowledge-graph/enable-prom-metrics-collection/application-frameworks/express/
+https://hunyuan.tencent.com/image/zh?tabIndex=0
