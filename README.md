@@ -47,3 +47,4 @@ https://grafana.com/docs/grafana-cloud/knowledge-graph/enable-prom-metrics-colle
 https://hunyuan.tencent.com/image/zh?tabIndex=0
 
 https://www.youtube.com/@christianlempa/videos
+https://developers.cloudflare.com/realtime/
