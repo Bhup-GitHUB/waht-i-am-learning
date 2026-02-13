@@ -48,3 +48,4 @@ https://hunyuan.tencent.com/image/zh?tabIndex=0
 
 https://www.youtube.com/@christianlempa/videos
 https://developers.cloudflare.com/realtime/
+https://www.youtube.com/watch?v=E6etGQaVJC0
