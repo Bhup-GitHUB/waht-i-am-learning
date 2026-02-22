@@ -50,3 +50,6 @@ https://www.youtube.com/@christianlempa/videos
 https://developers.cloudflare.com/realtime/
 https://www.youtube.com/watch?v=E6etGQaVJC0
 https://httptoolkit.com/blog/tls-fingerprinting-node-js/
+
+
+https://www.youtube.com/watch?v=QecIZLXT29U
