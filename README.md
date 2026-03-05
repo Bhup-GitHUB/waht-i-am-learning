@@ -56,3 +56,4 @@ https://www.youtube.com/watch?v=QecIZLXT29U"
 
 https://bazel.build/start/go
 https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/
+https://www.youtube.com/watch?v=E1socIMswyc
