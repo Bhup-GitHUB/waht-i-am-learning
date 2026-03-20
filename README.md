@@ -1,3 +1,5 @@
+https://www.purestorage.com/knowledge/what-is-erasure-coding.html
+
 https://www.youtube.com/watch?v=QjvyiyH4rr0
 
 ik is what not waht 
