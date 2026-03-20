@@ -60,3 +60,4 @@ https://www.youtube.com/watch?v=E1socIMswyc
 
 https://news.kalshi.com/p/kalshi-hits-5-billion-valuation-amid-international-expansion
 https://arxiv.org/pdf/2505.10465
+https://www.fortinet.com/resources/cyberglossary/sd-wan-architecture
