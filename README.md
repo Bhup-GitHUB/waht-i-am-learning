@@ -65,3 +65,5 @@ https://arxiv.org/pdf/2505.10465
 https://www.fortinet.com/resources/cyberglossary/sd-wan-architecture
 https://ebpf.io/what-is-ebpf/
 https://huggingface.co/blog/not-lain/kv-caching
+
+https://systemdesignschool.io/domain-knowledge/distributed-transactions
