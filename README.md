@@ -67,3 +67,5 @@ https://ebpf.io/what-is-ebpf/
 https://huggingface.co/blog/not-lain/kv-caching
 
 https://systemdesignschool.io/domain-knowledge/distributed-transactions
+
+https://kubesec.io/
